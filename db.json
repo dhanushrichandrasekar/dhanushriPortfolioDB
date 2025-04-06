@@ -4,7 +4,8 @@
     "content2": [
       "I’m always open to new opportunities and collaborations. Let’s connect and create impactful digital solutions!"
     ],
-    "cv": "https://dhanushriportfoliodtbase.onrender.com/dhanushri_resume.pdf",
+  "cv": {"https://dhanushrichandrasekar.github.io/dhanushriPortfolioDB/dhanushri_resume.pdf"
+}",
     "image": "https://dhanushriportfoliodtbase.onrender.com/myimage.png" 
 },
  "aboutpage": {
@@ -17,7 +18,7 @@
     
     "Let’s collaborate to transform ideas into impactful digital experiences. Whether you’re looking to build a stunning website or enhance your web presence, I’m ready to bring your vision to life."
   ],
-  "image": "https://dhanushriportfoliodtbase.onrender.com/girl.png"
+  "image": "https://dhanushrichandrasekar.github.io/dhanushriPortfolioDB/girl.png"
 },
     "skillspage": {
       "interests": [
