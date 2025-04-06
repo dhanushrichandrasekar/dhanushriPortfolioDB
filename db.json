@@ -3,7 +3,7 @@
     "content2": [
       "I’m always open to new opportunities and collaborations. Let’s connect and create impactful digital solutions!"
     ],
-    "cv": "dhanushri_resume.pdf", 
+    "cv": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/dhanushri_resume.pdf?raw=true", 
     "image":"https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/myimage.png?raw=true"
   },
   "aboutpage": {
@@ -15,23 +15,23 @@
       "I’m constantly learning and adapting to new technologies, pushing myself to stay ahead of trends while combining my creativity with technical expertise.",
       "Let’s collaborate to transform ideas into impactful digital experiences. Whether you’re looking to build a stunning website or enhance your web presence, I’m ready to bring your vision to life."
     ],
-    "image": "girl.png"
+    "image": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/girl.png?raw=true"
   },
   "skillspage": {
     "interests": [
       {
         "title": "FRONT END DEVELOPMENT",
-        "logo": "SourceCode.png",
+        "logo": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/SourceCode.png?raw=true",
         "description": "Frontend development is not just a skill for me; it's a true passion. I love the process of transforming ideas into beautiful, functional websites that users enjoy interacting with."
       },
       {
         "title": "WEB DESIGN",
-        "logo": "Website.png",
+        "logo": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/Website.png?raw=true",
         "description": "I have a strong interest in web design, where aesthetics and user experience seamlessly blend to craft meaningful and engaging online interactions."
       },
       {
         "title": "UI UX DESIGN",
-        "logo": "https://dhanushriportfoliodtbase.onrender.com/paintBrush.png",
+        "logo": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/paintBrush.png?raw=true",
         "description": "I have a deep passion for UI/UX design, particularly when it comes to selecting the perfect colors, typography, and overall design elements."
       }
     ],
@@ -69,84 +69,84 @@
   "projectspage": [
     {
       "id": 1,
-      "image": "https://dhanushriportfoliodtbase.onrender.com/pneumoniasite.png",
+      "image": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/pneumoniasite.png?raw=true",
       "title": "PNEUMONIA DETECTION",
       "technologies": ["CSS", "Bootstrap", "JavaScript"],
       "description": "A platform that helps detect pneumonia from X-ray images using deep learning.",
       "link": "https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite",
-      "demoVideoLink": "https://dhanushriportfoliodtbase.onrender.com/pneumoniavid.mp4"
+      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/pneumoniavid.mp4?raw=true"
     },
     {
       "id": 2,
-      "image": "https://dhanushriportfoliodtbase.onrender.com/quiz.png",
+      "image": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/quiz.png?raw=true",
       "title": "ONLINE EXAMINATION SYSTEM",
       "technologies": ["HTML", "CSS", "JavaScript"],
       "description": "An easy-to-use online exam system for kids with quizzes and instant result tracking.",
       "link": "https://github.com/dhanushrichandrasekar/quiz",
-      "demoVideoLink": "https://dhanushriportfoliodtbase.onrender.com/quizvid.mp4"
+      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/quizvid.mp4?raw=true"
     },
     {
       "id": 3,
-      "image": "https://dhanushriportfoliodtbase.onrender.com/weatherapp.png",
+      "image": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/weatherapp.png?raw=true",
       "title": "WEATHER APPLICATION",
       "technologies": ["React", "CSS", "API"],
       "description": "A simple app that shows real-time weather updates using the OpenWeatherMap API.",
       "link": "https://github.com/dhanushrichandrasekar/weatherDashboard",
-      "demoVideoLink": "https://dhanushriportfoliodtbase.onrender.com/weathervid.mp4"
+      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/weathervid.mp4?raw=true"
     },
     {
       "id": 4,
-      "image": "https://dhanushriportfoliodtbase.onrender.com/todolist.png",
+      "image": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/todolist.png?raw=true",
       "title": "TO-DO LIST APP",
       "technologies": ["HTML", "CSS", "JavaScript"],
       "description": "A user-friendly app to create and manage tasks with interactive features.",
       "link": "https://github.com/dhanushrichandrasekar/toDoList",
-      "demoVideoLink": "https://dhanushriportfoliodtbase.onrender.com/todovid.mp4"
+      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/todovid.mp4?raw=true"
     },
     {
       "id": 5,
-      "image": "https://dhanushriportfoliodtbase.onrender.com/circus.png",
+      "image": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/circus.png?raw=true",
       "title": "CIRCUS WEBSITE",
       "technologies": ["HTML", "CSS", "Bootstrap"],
       "description": "A colorful website for Happy Hoopla Circus, showcasing events and performances.",
       "link": "https://github.com/dhanushrichandrasekar/circusWebsite",
-      "demoVideoLink": "https://dhanushriportfoliodtbase.onrender.com/circusvid.mp4"
+      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/circusvid.mp4?raw=true"
     },
     {
       "id": 6,
-      "image": "https://dhanushriportfoliodtbase.onrender.com/imagesearchengine.png",
+      "image": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/imagesearchengine.png?raw=true",
       "title": "IMAGE SEARCH ENGINE",
       "technologies": ["HTML", "Particle.js", "JavaScript"],
       "description": "A tool that allows users to search for images using the Unsplash API.",
       "link": "https://github.com/dhanushrichandrasekar/imageSearchEngine",
-      "demoVideoLink": "https://dhanushriportfoliodtbase.onrender.com/imagesearchvid.mp4"
+      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/imagesearchvid.mp4?raw=true"
     },
     {
       "id": 7,
-      "image": "https://dhanushriportfoliodtbase.onrender.com/crud.png",
+      "image": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/crud.png?raw=true",
       "title": "CRUD OPERATIONS FORM",
       "technologies": ["HTML", "CSS", "React"],
       "description": "A form to manage data with full create, read, update, and delete functions.",
       "link": "https://github.com/dhanushrichandrasekar/ReactRegForm",
-      "demoVideoLink": "https://dhanushriportfoliodtbase.onrender.com/crudvid.mp4"
+      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/crudvid.mp4?raw=true"
     },
     {
       "id": 8,
-      "image": "https://dhanushriportfoliodtbase.onrender.com/socialmediamarket.png",
+      "image": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/socialmediamarket.png?raw=true",
       "title": "SOCIAL MEDIA MARKETING WEBSITE",
       "technologies": ["HTML", "CSS", "Bootstrap"],
       "description": "A website designed to promote social media marketing services.",
       "link": "https://github.com/dhanushrichandrasekar/socialSparkAgencyWebsite",
-      "demoVideoLink": "https://dhanushriportfoliodtbase.onrender.com/socmedivid.mp4"
+      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/socmedivid.mp4?raw=true"
     },
     {
       "id": 9,
-      "image": "https://dhanushriportfoliodtbase.onrender.com/otppic.png",
+      "image": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/otppic.png?raw=true",
       "title": "OTP GENERATOR",
       "technologies": ["HTML", "CSS", "JavaScript"],
       "description": "A dynamic OTP generator that creates secure one-time passwords.",
       "link": "https://github.com/dhanushrichandrasekar/otpGenerator",
-      "demoVideoLink": "https://dhanushriportfoliodtbase.onrender.com/otpgenerator.mp4"
+      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/otpgenerator.mp4?raw=true"
     }
   ]
 }
