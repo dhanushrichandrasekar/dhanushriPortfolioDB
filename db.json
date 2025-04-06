@@ -1,13 +1,13 @@
 {
   "homepage": {
-   
     "content2": [
       "I’m always open to new opportunities and collaborations. Let’s connect and create impactful digital solutions!"
     ],
-  "cv": {"https://dhanushrichandrasekar.github.io/dhanushriPortfolioDB/dhanushri_resume.pdf"
-}",
-    "image": "https://dhanushriportfoliodtbase.onrender.com/myimage.png" 
-},
+    "cv": "https://dhanushrichandrasekar.github.io/dhanushriPortfolioDB/dhanushri_resume.pdf",
+    "image": "https://dhanushriportfoliodtbase.onrender.com/myimage.png"
+  }
+}
+
  "aboutpage": {
   "content": [
     "I’m a web developer who thrives on turning creative ideas into beautiful and functional websites. My focus is on crafting seamless, user-centered designs.",
