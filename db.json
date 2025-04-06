@@ -5,20 +5,18 @@
     ],
     "cv": "https://dhanushrichandrasekar.github.io/dhanushriPortfolioDB/dhanushri_resume.pdf",
     "image": "https://dhanushriportfoliodtbase.onrender.com/myimage.png"
+  },
+  "aboutpage": {
+    "content": [
+      "I’m a web developer who thrives on turning creative ideas into beautiful and functional websites. My focus is on crafting seamless, user-centered designs.",
+      "Whether it’s building a website from scratch or enhancing an existing one, I focus on delivering impactful digital experiences that leave a lasting impression.",
+      "I believe that great design should not only look good but also work effortlessly, ensuring a seamless user experience that is both intuitive and engaging across all devices and platforms.",
+      "I specialize in creating intuitive web experiences that blend aesthetics with usability, always keeping the user journey in mind.",
+      "I’m constantly learning and adapting to new technologies, pushing myself to stay ahead of trends while combining my creativity with technical expertise.",
+      "Let’s collaborate to transform ideas into impactful digital experiences. Whether you’re looking to build a stunning website or enhance your web presence, I’m ready to bring your vision to life."
+    ],
+    "image": "https://dhanushrichandrasekar.github.io/dhanushriPortfolioDB/girl.png"
   }
-}
-
- "aboutpage": {
-  "content": [
-    "I’m a web developer who thrives on turning creative ideas into beautiful and functional websites. My focus is on crafting seamless, user-centered designs.",
-    "Whether it’s building a website from scratch or enhancing an existing one, I focus on delivering impactful digital experiences that leave a lasting impression.",
-    "I believe that great design should not only look good but also work effortlessly, ensuring a seamless user experience that is both intuitive and engaging across all devices and platforms.",
-    "I specialize in creating intuitive web experiences that blend aesthetics with usability, always keeping the user journey in mind.",
-    "I’m constantly learning and adapting to new technologies, pushing myself to stay ahead of trends while combining my creativity with technical expertise.",
-    
-    "Let’s collaborate to transform ideas into impactful digital experiences. Whether you’re looking to build a stunning website or enhance your web presence, I’m ready to bring your vision to life."
-  ],
-  "image": "https://dhanushrichandrasekar.github.io/dhanushriPortfolioDB/girl.png"
 },
     "skillspage": {
       "interests": [
