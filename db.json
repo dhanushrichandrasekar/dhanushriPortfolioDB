@@ -1,0 +1,153 @@
+{
+  "homepage": {
+   
+    "content2": [
+      "I’m always open to new opportunities and collaborations. Let’s connect and create impactful digital solutions!"
+    ],
+    "cv": "http://localhost:3000/images/dhanushri_resume.pdf",
+    "image": "http://localhost:3000/images/myimage.png"
+},
+ "aboutpage": {
+  "content": [
+    "I’m a web developer who thrives on turning creative ideas into beautiful and functional websites. My focus is on crafting seamless, user-centered designs.",
+    "Whether it’s building a website from scratch or enhancing an existing one, I focus on delivering impactful digital experiences that leave a lasting impression.",
+    "I believe that great design should not only look good but also work effortlessly, ensuring a seamless user experience that is both intuitive and engaging across all devices and platforms.",
+    "I specialize in creating intuitive web experiences that blend aesthetics with usability, always keeping the user journey in mind.",
+    "I’m constantly learning and adapting to new technologies, pushing myself to stay ahead of trends while combining my creativity with technical expertise.",
+    
+    "Let’s collaborate to transform ideas into impactful digital experiences. Whether you’re looking to build a stunning website or enhance your web presence, I’m ready to bring your vision to life."
+  ],
+  "image": "http://localhost:3000/images/girl.png"
+},
+    "skillspage": {
+      "interests": [
+        {
+          "title": "FRONT END DEVELOPMENT",
+          "logo": "http://localhost:3000/images/SourceCode.png",
+          "description": "Frontend development is not just a skill for me; it's a true passion. I love the process of transforming ideas into beautiful, functional websites that users enjoy interacting with."
+        },
+        {
+          "title": "WEB DESIGN",
+          "logo": "http://localhost:3000/images/Website.png",
+          "description": " I have a strong interest in web design, where aesthetics and user experience seamlessly blend to craft meaningful and engaging online interactions."
+        },
+        {
+          "title": "UI UX DESIGN",
+          "logo": "http://localhost:3000/images/paintBrush.png",
+          "description": "I have a deep passion for UI/UX design, particularly when it comes to selecting the perfect colors, typography, and overall design elements."
+        }
+      ],
+      "technologies": [
+        { "name": "HTML", "progress": 90 },
+        { "name": "CSS", "progress": 90 },
+        { "name": "Bootstrap", "progress": 90 },
+        { "name": "JavaScript", "progress": 85 },
+        { "name": "React Bootstrap", "progress": 85 },
+        { "name": "React JS", "progress": 80 },
+        { "name": "Tailwind Css", "progress": 80 },
+        { "name": "BitBucket", "progress": 80 },
+        { "name": "Git & Github", "progress": 80 },
+        { "name": "Canva", "progress": 70 },
+        { "name": "Figma", "progress": 60 }
+      
+ 
+
+      ],
+      "interpersonalSkills": [
+        { "name": "Creativity", "rating": 5 },
+        { "name": "Team Work", "rating": 5 },
+        { "name": "Patience", "rating": 5},
+        { "name": "Collaboration", "rating": 5},
+        { "name": "Time Management", "rating": 5 },
+        { "name": "Attention to Detail", "rating": 5},
+        { "name": "Active Listening", "rating": 5},
+        { "name": "Problem Solving", "rating": 4}
+      ]
+    },
+      "projectspage": [
+        {
+          "id": 1,
+          "image": "http://localhost:3000/images/pneumoniasite.png",
+          "title": "PNEUMONIA DETECTION",
+          "technologies": ["CSS", "Bootstrap", "JavaScript"],
+          "description": "A platform that helps detect pneumonia from X-ray images using deep learning.",
+          "link": "https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite",
+            "demoVideoLink": "http://localhost:3000/videos/pneumoniavid.mp4"
+
+
+        },
+        {
+          "id": 2,
+          "image": "http://localhost:3000/images/quiz.png",
+          "title": "ONLINE EXAMINATION SYSTEM",
+          "technologies": ["HTML", "CSS", "JavaScript"],
+          "description": "An easy-to-use online exam system for kids with quizzes and instant result tracking.",
+          "link": "https://github.com/dhanushrichandrasekar/quiz",
+        "demoVideoLink": "http://localhost:3000/videos/quizvid.mp4"
+
+        },
+        {
+          "id": 3,
+          "image": "http://localhost:3000/images/weatherapp.png",
+          "title": "WEATHER APPLICATION",
+          "technologies": ["React", "CSS", "API"],
+          "description": "A simple app that shows real-time weather updates using the OpenWeatherMap API.",
+          "link": "https://github.com/dhanushrichandrasekar/weatherDashboard",
+            "demoVideoLink": "http://localhost:3000/videos/weathervid.mp4"
+        },
+        {
+          "id": 4,
+          "image": "http://localhost:3000/images/todolist.png",
+          "title": "TO-DO LIST APP",
+          "technologies": ["HTML", "CSS", "JavaScript"],
+          "description": "A user-friendly app to create and manage tasks with interactive features.",
+          "link": "https://github.com/dhanushrichandrasekar/toDoList",
+            "demoVideoLink": "http://localhost:3000/videos/todovid.mp4"
+        },
+        {
+          "id": 5,
+          "image": "http://localhost:3000/images/circus.png",
+          "title": "CIRCUS WEBSITE",
+          "technologies": ["HTML", "CSS", "Bootstrap"],
+          "description": "A colorful website for Happy Hoopla Circus, showcasing events and performances.",
+          "link": "https://github.com/dhanushrichandrasekar/circusWebsite",
+            "demoVideoLink": "http://localhost:3000/videos/circusvid.mp4"
+        },
+        {
+          "id": 6,                                              
+          "image": "http://localhost:3000/images/imagesearchengine.png",
+          "title": "IMAGE SEARCH ENGINE",
+          "technologies": ["HTML", "Particle.js", "JavaScript"],
+          "description": "A tool that allows users to search for images using the Unsplash API.",
+          "link": "https://github.com/dhanushrichandrasekar/imageSearchEngine",  
+          "demoVideoLink": "http://localhost:3000/videos/imagesearchvid.mp4"
+        },
+        {
+          "id": 7,
+          "image": "http://localhost:3000/images/crud.png",
+          "title": "CRUD OPERATIONS FORM",
+          "technologies": ["HTML", "CSS", "React"],
+          "description": "A form to manage data with full create, read, update, and delete functions.",
+          "link": "https://github.com/dhanushrichandrasekar/ReactRegForm",
+            "demoVideoLink": "http://localhost:3000/videos/crudvid.mp4"
+        },
+        {
+          "id": 8,
+          "image": "http://localhost:3000/images/socialmediamarket.png",
+          "title": "SOCIAL MEDIA MARKETING WEBSITE", 
+          "technologies": ["HTML", "CSS", "Bootstrap"],
+          "description": "A website designed to promote social media marketing services.",
+          "link": "https://github.com/dhanushrichandrasekar/socialSparkAgencyWebsite",
+            "demoVideoLink": "http://localhost:3000/videos/socmedivid.mp4"
+        },
+        {
+          "id": 9,                                              
+          "image": "http://localhost:3000/images/otppic.png",
+          "title": "OTP GENERATOR",
+          "technologies": ["HTML", "CSS", "JavaScript"],
+          "description": "A dynamic OTP generator that creates secure one-time passwords.",
+          "link": "https://github.com/dhanushrichandrasekar/otpGenerator",  
+          "demoVideoLink": "http://localhost:3000/videos/otpgenerator.mp4"
+        }
+      ]
+   }
