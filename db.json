@@ -74,7 +74,7 @@
       "technologies": ["CSS", "Bootstrap", "JavaScript"],
       "description": "A platform that helps detect pneumonia from X-ray images using deep learning.",
       "link": "https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite",
-      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/pneumoniavid.mp4?raw=true"
+      "demoVideoLink": "https://drive.google.com/file/d/10TrCtXXxbjFL0k0KlzDz_gYNzjDXVV_D/preview"
     },
     {
       "id": 2,
@@ -83,7 +83,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "description": "An easy-to-use online exam system for kids with quizzes and instant result tracking.",
       "link": "https://github.com/dhanushrichandrasekar/quiz",
-      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/quizvid.mp4?raw=true"
+      "demoVideoLink": "https://drive.google.com/file/d/1KchVJOvV_ZHQzdRdYXRiUz7KrU0TsPGy/preview"
     },
     {
       "id": 3,
@@ -92,7 +92,7 @@
       "technologies": ["React", "CSS", "API"],
       "description": "A simple app that shows real-time weather updates using the OpenWeatherMap API.",
       "link": "https://github.com/dhanushrichandrasekar/weatherDashboard",
-      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/weathervid.mp4?raw=true"
+      "demoVideoLink": "https://drive.google.com/file/d/1p-w0IYiPfi3JFqNLfteeoXrlLLeYvdtp/preview"
     },
     {
       "id": 4,
@@ -101,7 +101,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "description": "A user-friendly app to create and manage tasks with interactive features.",
       "link": "https://github.com/dhanushrichandrasekar/toDoList",
-      "demoVideoLink": "https://drive.google.com/file/d/1Nk7M0iTb7VwpYQvUPUWWRuoft0WHNDJv/preview"
+      "demoVideoLink": "https://drive.google.com/file/d/1r6nHHuzgZyVqZ9hMdcQNeu2TrluTxB_M/preview"
     },
     {
       "id": 5,
@@ -110,7 +110,7 @@
       "technologies": ["HTML", "CSS", "Bootstrap"],
       "description": "A colorful website for Happy Hoopla Circus, showcasing events and performances.",
       "link": "https://github.com/dhanushrichandrasekar/circusWebsite",
-      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/circusvid.mp4?raw=true"
+      "demoVideoLink": "https://drive.google.com/file/d/1-WSM64UKmduCVq7v49a42nm_ud4AaHea/preview"
     },
     {
       "id": 6,
@@ -119,7 +119,7 @@
       "technologies": ["HTML", "Particle.js", "JavaScript"],
       "description": "A tool that allows users to search for images using the Unsplash API.",
       "link": "https://github.com/dhanushrichandrasekar/imageSearchEngine",
-      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/imagesearchvid.mp4?raw=true"
+      "demoVideoLink": "https://drive.google.com/file/d/1RXmb3uOZBy6Jy9FxutWd4JgyRbiZ10qu/preview"
     },
     {
       "id": 7,
@@ -128,7 +128,7 @@
       "technologies": ["HTML", "CSS", "React"],
       "description": "A form to manage data with full create, read, update, and delete functions.",
       "link": "https://github.com/dhanushrichandrasekar/ReactRegForm",
-      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/crudvid.mp4?raw=true"
+      "demoVideoLink": "https://drive.google.com/file/d/1t20JdVh1YPbotzOnudz8JGNlMGzNLeV2/preview"
     },
     {
       "id": 8,
@@ -137,7 +137,7 @@
       "technologies": ["HTML", "CSS", "Bootstrap"],
       "description": "A website designed to promote social media marketing services.",
       "link": "https://github.com/dhanushrichandrasekar/socialSparkAgencyWebsite",
-      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/socmedivid.mp4?raw=true"
+      "demoVideoLink": "https://drive.google.com/file/d/1WdwfQWLHMyiaWSz867wvIUYIp_kNe5LR/preview"
     },
     {
       "id": 9,
@@ -146,7 +146,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "description": "A dynamic OTP generator that creates secure one-time passwords.",
       "link": "https://github.com/dhanushrichandrasekar/otpGenerator",
-      "demoVideoLink": "https://github.com/dhanushrichandrasekar/dhanushriPortfolioDB/blob/main/otpgenerator.mp4?raw=true"
+      "demoVideoLink": "https://drive.google.com/file/d/1WA602iKN6BAq7vkPFwaOp5o80tjBcL0-/preview"
     }
   ]
 }
