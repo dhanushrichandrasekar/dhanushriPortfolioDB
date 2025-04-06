@@ -4,8 +4,8 @@
     "content2": [
       "I’m always open to new opportunities and collaborations. Let’s connect and create impactful digital solutions!"
     ],
-    "cv": "http://localhost:3000/images/dhanushri_resume.pdf",
-    "image": "http://localhost:3000/images/myimage.png"
+    "cv": "http://localhost:3000/dhanushri_resume.pdf",
+    "image": "http://localhost:3000/myimage.png"
 },
  "aboutpage": {
   "content": [
@@ -17,13 +17,13 @@
     
     "Let’s collaborate to transform ideas into impactful digital experiences. Whether you’re looking to build a stunning website or enhance your web presence, I’m ready to bring your vision to life."
   ],
-  "image": "http://localhost:3000/images/girl.png"
+  "image": "http://localhost:3000/girl.png"
 },
     "skillspage": {
       "interests": [
         {
           "title": "FRONT END DEVELOPMENT",
-          "logo": "http://localhost:3000/images/SourceCode.png",
+          "logo": "http://localhost:3000/SourceCode.png",
           "description": "Frontend development is not just a skill for me; it's a true passion. I love the process of transforming ideas into beautiful, functional websites that users enjoy interacting with."
         },
         {
@@ -33,7 +33,7 @@
         },
         {
           "title": "UI UX DESIGN",
-          "logo": "http://localhost:3000/images/paintBrush.png",
+          "logo": "http://localhost:3000/paintBrush.png",
           "description": "I have a deep passion for UI/UX design, particularly when it comes to selecting the perfect colors, typography, and overall design elements."
         }
       ],
@@ -67,23 +67,23 @@
       "projectspage": [
         {
           "id": 1,
-          "image": "http://localhost:3000/images/pneumoniasite.png",
+          "image": "http://localhost:3000//pneumoniasite.png",
           "title": "PNEUMONIA DETECTION",
           "technologies": ["CSS", "Bootstrap", "JavaScript"],
           "description": "A platform that helps detect pneumonia from X-ray images using deep learning.",
           "link": "https://github.com/dhanushrichandrasekar/pneumoniaDetectionWebsite",
-            "demoVideoLink": "http://localhost:3000/videos/pneumoniavid.mp4"
+            "demoVideoLink": "http://localhost:3000/pneumoniavid.mp4"
 
 
         },
         {
           "id": 2,
-          "image": "http://localhost:3000/images/quiz.png",
+          "image": "http://localhost:3000/quiz.png",
           "title": "ONLINE EXAMINATION SYSTEM",
           "technologies": ["HTML", "CSS", "JavaScript"],
           "description": "An easy-to-use online exam system for kids with quizzes and instant result tracking.",
           "link": "https://github.com/dhanushrichandrasekar/quiz",
-        "demoVideoLink": "http://localhost:3000/videos/quizvid.mp4"
+        "demoVideoLink": "http://localhost:3000/quizvid.mp4"
 
         },
         {
@@ -97,57 +97,57 @@
         },
         {
           "id": 4,
-          "image": "http://localhost:3000/images/todolist.png",
+          "image": "http://localhost:3000/todolist.png",
           "title": "TO-DO LIST APP",
           "technologies": ["HTML", "CSS", "JavaScript"],
           "description": "A user-friendly app to create and manage tasks with interactive features.",
           "link": "https://github.com/dhanushrichandrasekar/toDoList",
-            "demoVideoLink": "http://localhost:3000/videos/todovid.mp4"
+            "demoVideoLink": "http://localhost:3000/todovid.mp4"
         },
         {
           "id": 5,
-          "image": "http://localhost:3000/images/circus.png",
+          "image": "http://localhost:3000/circus.png",
           "title": "CIRCUS WEBSITE",
           "technologies": ["HTML", "CSS", "Bootstrap"],
           "description": "A colorful website for Happy Hoopla Circus, showcasing events and performances.",
           "link": "https://github.com/dhanushrichandrasekar/circusWebsite",
-            "demoVideoLink": "http://localhost:3000/videos/circusvid.mp4"
+            "demoVideoLink": "http://localhost:3000/circusvid.mp4"
         },
         {
           "id": 6,                                              
-          "image": "http://localhost:3000/images/imagesearchengine.png",
+          "image": "http://localhost:3000/imagesearchengine.png",
           "title": "IMAGE SEARCH ENGINE",
           "technologies": ["HTML", "Particle.js", "JavaScript"],
           "description": "A tool that allows users to search for images using the Unsplash API.",
           "link": "https://github.com/dhanushrichandrasekar/imageSearchEngine",  
-          "demoVideoLink": "http://localhost:3000/videos/imagesearchvid.mp4"
+          "demoVideoLink": "http://localhost:3000/imagesearchvid.mp4"
         },
         {
           "id": 7,
-          "image": "http://localhost:3000/images/crud.png",
+          "image": "http://localhost:3000/crud.png",
           "title": "CRUD OPERATIONS FORM",
           "technologies": ["HTML", "CSS", "React"],
           "description": "A form to manage data with full create, read, update, and delete functions.",
           "link": "https://github.com/dhanushrichandrasekar/ReactRegForm",
-            "demoVideoLink": "http://localhost:3000/videos/crudvid.mp4"
+            "demoVideoLink": "http://localhost:3000/crudvid.mp4"
         },
         {
           "id": 8,
-          "image": "http://localhost:3000/images/socialmediamarket.png",
+          "image": "http://localhost:3000/socialmediamarket.png",
           "title": "SOCIAL MEDIA MARKETING WEBSITE", 
           "technologies": ["HTML", "CSS", "Bootstrap"],
           "description": "A website designed to promote social media marketing services.",
           "link": "https://github.com/dhanushrichandrasekar/socialSparkAgencyWebsite",
-            "demoVideoLink": "http://localhost:3000/videos/socmedivid.mp4"
+            "demoVideoLink": "http://localhost:3000/socmedivid.mp4"
         },
         {
           "id": 9,                                              
-          "image": "http://localhost:3000/images/otppic.png",
+          "image": "http://localhost:3000/otppic.png",
           "title": "OTP GENERATOR",
           "technologies": ["HTML", "CSS", "JavaScript"],
           "description": "A dynamic OTP generator that creates secure one-time passwords.",
           "link": "https://github.com/dhanushrichandrasekar/otpGenerator",  
-          "demoVideoLink": "http://localhost:3000/videos/otpgenerator.mp4"
+          "demoVideoLink": "http://localhost:3000/otpgenerator.mp4"
         }
       ]
    }
