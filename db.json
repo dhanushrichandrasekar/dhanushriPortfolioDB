@@ -3,8 +3,8 @@
     "content2": [
       "I’m always open to new opportunities and collaborations. Let’s connect and create impactful digital solutions!"
     ],
-    "cv": "https://dhanushrichandrasekar.github.io/dhanushriPortfolioDB/dhanushri_resume.pdf", 
-    "image":"/myimage.png"
+    "cv": "dhanushri_resume.pdf", 
+    "image":"myimage.png"
   },
   "aboutpage": {
     "content": [
@@ -15,18 +15,18 @@
       "I’m constantly learning and adapting to new technologies, pushing myself to stay ahead of trends while combining my creativity with technical expertise.",
       "Let’s collaborate to transform ideas into impactful digital experiences. Whether you’re looking to build a stunning website or enhance your web presence, I’m ready to bring your vision to life."
     ],
-    "image": "https://dhanushrichandrasekar.github.io/dhanushriPortfolioDB/girl.png"
+    "image": "girl.png"
   },
   "skillspage": {
     "interests": [
       {
         "title": "FRONT END DEVELOPMENT",
-        "logo": "https://dhanushriportfoliodtbase.onrender.com/SourceCode.png",
+        "logo": "SourceCode.png",
         "description": "Frontend development is not just a skill for me; it's a true passion. I love the process of transforming ideas into beautiful, functional websites that users enjoy interacting with."
       },
       {
         "title": "WEB DESIGN",
-        "logo": "https://dhanushriportfoliodtbase.onrender.com/Website.png",
+        "logo": "Website.png",
         "description": "I have a strong interest in web design, where aesthetics and user experience seamlessly blend to craft meaningful and engaging online interactions."
       },
       {
