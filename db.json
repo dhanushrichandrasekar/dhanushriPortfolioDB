@@ -54,14 +54,24 @@
 
       ],
       "interpersonalSkills": [
-        { "name": "Creativity", "rating": 5 },
-        { "name": "Team Work", "rating": 5 },
-        { "name": "Patience", "rating": 5},
-        { "name": "Collaboration", "rating": 5},
-        { "name": "Time Management", "rating": 5 },
-        { "name": "Attention to Detail", "rating": 5},
-        { "name": "Active Listening", "rating": 5},
-        { "name": "Problem Solving", "rating": 4}
+        
+          { "name": "Creativity", "rating": 5 },
+          { "name": "Patience", "rating": 5 },
+          { "name": "Work Ethic", "rating": 5 },
+          { "name": "Team Work", "rating": 5 },
+          { "name": "Adaptability", "rating": 5 },
+          { "name": "Collaboration", "rating": 5 },
+          { "name": "Responsibility", "rating": 5 },
+          { "name": "Self-Motivation", "rating": 5 },
+          { "name": "Active Listening", "rating": 5 },
+          { "name": "Learning Agility", "rating": 5 },
+          { "name": "Positive Attitude", "rating": 5 },
+          { "name": "Attention to Detail", "rating": 5 },
+          { "name": "Time Management", "rating": 5 },
+          { "name": "Problem Solving", "rating": 4 },
+          { "name": "Effective Communication", "rating": 5 }
+        
+        
       ]
     },
       "projectspage": [
@@ -151,4 +161,3 @@
         }
       ]
    }
-
